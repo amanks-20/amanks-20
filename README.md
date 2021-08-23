@@ -1,5 +1,5 @@
 ### Hi there 👋
-<code><img height="80" src = "img/aman.jpg"></code>
+<code><img height="80" src = "img/aman.jpg"></code><code><img height="80" src = "img/aman_cover.png"></code>
 #### I am [Aman Kumar Singh](https://home.iitk.ac.in/~amanks20/), an undergraduate student in Civil Engineering Department at Indian of Institute Technology Kanpur
 
 #### Languages and Tools
