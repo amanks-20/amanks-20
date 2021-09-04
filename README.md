@@ -1,6 +1,6 @@
 ### Hi there 👋
 <code><img height="80" src = "img/aman.jpeg"></code>
-#### I am [Aman](https://home.iitk.ac.in/~amanks20/), an undergraduate student in Civil Engineering Department at Indian of Institute Technology Kanpur
+ I am [Aman](https://home.iitk.ac.in/~amanks20/), an undergraduate student in Civil Engineering Department at Indian of Institute Technology Kanpur
 
 #### Repositories
 - <code><img height="30" src = "img/iitk.png"></code> [IITK Homepage - amanks20](https://github.com/amanks-20/iitk_home)
