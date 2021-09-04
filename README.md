@@ -3,9 +3,9 @@
 #### I am [Aman](https://home.iitk.ac.in/~amanks20/), an undergraduate student in Civil Engineering Department at Indian of Institute Technology Kanpur
 
 #### Repositories
-- [SoCE IITK Website](https://github.com/SOCE-IITK/soce)
-- [IITK Homepage - amanks20](https://github.com/amanks-20/iitk_home)
-- [CAD Project - AeroClub IITK](https://github.com/amanks-20/CAD-Project)
+- <code><img height="30" src = "img/iitk.png"></code> [IITK Homepage - amanks20](https://github.com/amanks-20/iitk_home)
+- <code><img height="30" src = "img/soce.png"></code> [SoCE IITK Website](https://github.com/SOCE-IITK/soce)
+- <code><img height="30" src = "img/aero.png"></code> [CAD Project - AeroClub IITK](https://github.com/amanks-20/CAD-Project)
 
 
 #### Languages and Tools
