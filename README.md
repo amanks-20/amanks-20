@@ -1,7 +1,7 @@
 ### Hi there 👋
 <code><img height="80" src = "img/aman_12.png"></code>
  
-<code>I am [Aman Kumar Singh](https://home.iitk.ac.in/~amanks20/)</code>
+<code>I am [Aman (pronounced Aeyman or A-man) K S](https://home.iitk.ac.in/~amanks20/)</code>
 
 <code>UG student @ [IITK](https://www.iitk.ac.in/)</code>
 
