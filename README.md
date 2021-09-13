@@ -1,4 +1,4 @@
-<code><img height="80" src = "img/aman_1.jpg"></code>
+<code><img height="80" src = "https://media-exp1.licdn.com/dms/image/C4E03AQE7aS1WunETcw/profile-displayphoto-shrink_400_400/0/1631564417709?e=1637193600&v=beta&t=O-7uQBs5G4O36nZR8x5NhCHO7iqoRb5Rv4MHD9hmOlQ"></code>
  
 [Aman K S](https://home.iitk.ac.in/~amanks20/)
 
