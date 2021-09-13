@@ -1,5 +1,5 @@
 ### Hi there 👋
-<code><img height="80" src = "img/aman_12.png"></code>
+<code><img height="80" src = "img/aman_1.jpg"></code>
  
 I am [Aman K S](https://home.iitk.ac.in/~amanks20/)
 
