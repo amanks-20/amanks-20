@@ -1,4 +1,4 @@
-<code><img height="80" src = "https://pbs.twimg.com/profile_banners/1282190622246354947/1631566886/1500x500"><img height="80" src = "https://media-exp1.licdn.com/dms/image/C4E16AQGQqEgJqUaVDg/profile-displaybackgroundimage-shrink_350_1400/0/1631385851796?e=1637193600&v=beta&t=MC-BzUlM7lq8pTTn4h8NaWW_dkdUJvnUTFudtPybh1s"></code>
+<code><img height="80" src = "https://home.iitk.ac.in/~amanks20/assets/images/amanks20.png"><img height="80" src = "https://pbs.twimg.com/profile_banners/1282190622246354947/1631566886/1500x500"></code>
 
 
  
