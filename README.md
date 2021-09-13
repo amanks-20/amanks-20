@@ -2,7 +2,7 @@
 
 
  
-[Aman K S](https://home.iitk.ac.in/~amanks20/)
+## [Aman K S](https://home.iitk.ac.in/~amanks20/)
 
 UG student @ [IITK](https://www.iitk.ac.in/)
 
