@@ -1,5 +1,5 @@
 ### Hi there 👋
-<code><img height="80" src = "img/aman.jpeg"></code>
+<code><img height="80" src = "img/aman_12.png"></code>
  
 <code>I am [Aman Kumar Singh](https://home.iitk.ac.in/~amanks20/), an undergraduate student in Civil Engineering Department at Indian of Institute Technology Kanpur,
 an aficionado of English, Science, Technology and a discipline of Dr. APJ Abdul Kalam and Dr. BR Ambedkar.</code>
