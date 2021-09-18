@@ -7,7 +7,6 @@
 - <code><img height="30" src = "https://home.iitk.ac.in/~amanks20/assets/images/work/soce.png"></code> [SoCE IITK Website](https://github.com/SOCE-IITK/soce)
 - <code><img height="30" src = "https://home.iitk.ac.in/~amanks20/assets/images/work/aero.png"></code> [CAD Project - AeroClub IITK](https://github.com/amanks-20/CAD-Project)
 
-
 <!----
 <code><img height="80" src = "https://pbs.twimg.com/profile_banners/1282190622246354947/1631566886/1500x500"></code>
 
