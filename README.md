@@ -1,7 +1,7 @@
 <code><img height="100" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/stars.gif"></code>
 <code><img height="100" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/music.gif"></code>
 ## [Aman K S](https://home.iitk.ac.in/~amanks20/)
-
+UG Student at [IITK](https://iitk.ac.in)
 
 #### Repositories
 - <code><img height="30" src = "https://home.iitk.ac.in/~amanks20/assets/images/work/iitk.png"></code> [IITK Homepage - amanks20](https://github.com/amanks-20/iitk_home)
