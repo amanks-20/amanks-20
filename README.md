@@ -1,4 +1,5 @@
 ## [Aman K S](https://home.iitk.ac.in/~amanks20/)
+<code><img height="100" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/stars.gif"></code>
 
 <code><img height="300" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/cover2.gif"></code>
 
