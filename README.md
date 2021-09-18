@@ -1,4 +1,4 @@
-<code><img height="80" src = "https://media-exp1.licdn.com/dms/image/C4E03AQE7aS1WunETcw/profile-displayphoto-shrink_800_800/0/1631564417709?e=1637193600&v=beta&t=p6AXhVf9xvNmedAbOK4kCCzUegJGtO0C0-IMh5m2EQA"><img height="80" src = "https://pbs.twimg.com/profile_banners/1282190622246354947/1631566886/1500x500"></code>
+<code><img height="80" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/cover1.png"><img height="80" src = "https://pbs.twimg.com/profile_banners/1282190622246354947/1631566886/1500x500"></code>
 
 
  
