@@ -1,4 +1,4 @@
-<code><img height="80" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/cover1.png"><img height="80" src = "https://pbs.twimg.com/profile_banners/1282190622246354947/1631566886/1500x500"></code>
+<code><img height="150" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/cover1.png"><img height="80" src = "https://pbs.twimg.com/profile_banners/1282190622246354947/1631566886/1500x500"></code>
 
 
  
