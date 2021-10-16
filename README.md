@@ -1,18 +1,18 @@
-<code><img height="100" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/stars.gif"></code>
-<code><img height="100" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/cup.gif"></code>
-<code><img height="100" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/music.gif"></code>
-<code><img height="100" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/flowers.gif"></code>
-<code><img height="100" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/sun.gif"></code>
-<code><img height="100" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/window.gif"></code>
+<code><img height="100" src = "https://github.com/protonaman/iitk_home/blob/master/assets/images/misc/stars.gif"></code>
+<code><img height="100" src = "https://github.com/protonaman/iitk_home/blob/master/assets/images/misc/cup.gif"></code>
+<code><img height="100" src = "https://github.com/protonaman/iitk_home/blob/master/assets/images/misc/music.gif"></code>
+<code><img height="100" src = "https://github.com/protonaman/iitk_home/blob/master/assets/images/misc/flowers.gif"></code>
+<code><img height="100" src = "https://github.com/protonaman/iitk_home/blob/master/assets/images/misc/sun.gif"></code>
+<code><img height="100" src = "https://github.com/protonaman/iitk_home/blob/master/assets/images/misc/window.gif"></code>
 
 ## [Aman K S](https://home.iitk.ac.in/~amanks20/)
 UG Student at [IITK](https://iitk.ac.in)
 
 <!----
 #### Repositories
-- <code><img height="30" src = "https://home.iitk.ac.in/~amanks20/assets/images/work/iitk.png"></code> [IITK Homepage - amanks20](https://github.com/amanks-20/iitk_home)
-- <code><img height="30" src = "https://home.iitk.ac.in/~amanks20/assets/images/work/soce.png"></code> [SoCE IITK Website](https://github.com/SOCE-IITK/soce)
-- <code><img height="30" src = "https://home.iitk.ac.in/~amanks20/assets/images/work/aero.png"></code> [CAD Project - AeroClub IITK](https://github.com/amanks-20/CAD-Project)
+- <code><img height="30" src = "#"></code> [IITK Homepage - amanks20](https://github.com/amanks-20/iitk_home)
+- <code><img height="30" src = "#"></code> [SoCE IITK Website](https://github.com/SOCE-IITK/soce)
+- <code><img height="30" src = "#"></code> [CAD Project - AeroClub IITK](https://github.com/amanks-20/CAD-Project)
 
 
 
