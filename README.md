@@ -1,9 +1,9 @@
-<code><img height="100" src = "https://github.com/protonaman/iitk_home/blob/master/assets/images/misc/stars.gif"></code>
-<code><img height="100" src = "https://github.com/protonaman/iitk_home/blob/master/assets/images/misc/cup.gif"></code>
-<code><img height="100" src = "https://github.com/protonaman/iitk_home/blob/master/assets/images/misc/music.gif"></code>
-<code><img height="100" src = "https://github.com/protonaman/iitk_home/blob/master/assets/images/misc/flowers.gif"></code>
-<code><img height="100" src = "https://github.com/protonaman/iitk_home/blob/master/assets/images/misc/sun.gif"></code>
-<code><img height="100" src = "https://github.com/protonaman/iitk_home/blob/master/assets/images/misc/window.gif"></code>
+<code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/master/assets/images/misc/stars.gif"></code>
+<code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/master/assets/images/misc/cup.gif"></code>
+<code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/master/assets/images/misc/music.gif"></code>
+<code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/master/assets/images/misc/flowers.gif"></code>
+<code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/master/assets/images/misc/sun.gif"></code>
+<code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/master/assets/images/misc/window.gif"></code>
 
 ## [Aman K S](https://home.iitk.ac.in/~amanks20/)
 UG Student at [IITK](https://iitk.ac.in)
