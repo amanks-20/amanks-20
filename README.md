@@ -3,7 +3,7 @@
 ## [Aman Kumar Singh](https://home.iitk.ac.in/~amanks20/)
 UG Student at [IITK](https://iitk.ac.in)
 
-<code><img height="100" src = "https://github.com/amanks-20.github.io/assets/cover.png"></code>
+<code><img height="100" src = "https://github.com/amanks-20/amanks-20.github.io/tree/main/assets/cover.png"></code>
 
 <!----
 #### Repositories
