@@ -1,22 +1,15 @@
 <code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/stars.gif"></code>
-<code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/cup.gif"></code>
-<code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/music.gif"></code>
-<code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/flowers.gif"></code>
-<code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/sun.gif"></code>
-<code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/window.gif"></code>
 
-## [Aman K S](https://home.iitk.ac.in/~amanks20/)
+## [Aman Kumar Singh](https://home.iitk.ac.in/~amanks20/)
 UG Student at [IITK](https://iitk.ac.in)
+
+<code><img height="100" src = "https://github.com/amanks-20.github.io/assets/cover.png"></code>
 
 <!----
 #### Repositories
 - <code><img height="30" src = "#"></code> [IITK Homepage - amanks20](https://github.com/amanks-20/iitk_home)
 - <code><img height="30" src = "#"></code> [SoCE IITK Website](https://github.com/SOCE-IITK/soce)
 - <code><img height="30" src = "#"></code> [CAD Project - AeroClub IITK](https://github.com/amanks-20/CAD-Project)
-
-
-
-<code><img height="80" src = "https://pbs.twimg.com/profile_banners/1282190622246354947/1631566886/1500x500"></code>
 
 <code><img height="100" src = "https://github.com/amanks-20/iitk_home/blob/master/assets/images/misc/music.gif"></code>
 #### Languages and Tools
