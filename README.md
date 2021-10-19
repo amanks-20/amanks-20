@@ -1,4 +1,4 @@
-<code><img height="400" src = "https://github.com/amanks-20/amanks-20.github.io/blob/main/assets/cover.png"></code>
+<code><img height="500" src = "https://github.com/amanks-20/amanks-20.github.io/blob/main/assets/cover.png"></code>
 
 <!----
 <code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/stars.gif"></code>
