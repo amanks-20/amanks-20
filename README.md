@@ -1,10 +1,9 @@
 <code><img height="500" src = "https://github.com/amanks-20/amanks-20.github.io/blob/main/assets/cover.png"></code>
 
-<!----
 <code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/stars.gif"></code>
-
 ## [Aman Kumar Singh](https://home.iitk.ac.in/~amanks20/)
 UG Student at [IITK](https://iitk.ac.in)
+<!----
 
 #### Repositories
 - <code><img height="30" src = "#"></code> [IITK Homepage - amanks20](https://github.com/amanks-20/iitk_home)
