@@ -1,4 +1,4 @@
-<code><img height="10%" src = "https://github.com/protonaman/homeiitk/blob/main/assets/images/etc/cover.png"></code>
+<code><img height="10%" src = "https://pbs.twimg.com/profile_banners/1282190622246354947/1634585768/1500x500"></code>
 <!----
 <code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/stars.gif"></code>
 ## [Aman Kumar Singh](https://home.iitk.ac.in/~amanks20/)
