@@ -1,13 +1,15 @@
 
 <code><img height="100" src = "https://home.iitk.ac.in/~amanks20/assets/images/gif/stars.gif"></code>
 
-- Hey there! 👋🏻
-- My name is Aman. 🙂
-- I am a second-year B.Tech student at IITK in the Civil Engineering Department.
+Hey there! 👋🏻
 
-- IITK Home: [home.iitk.ac.in/~amanks20](https://home.iitk.ac.in/~amanks20/) 
+My name is Aman. 🙂
 
-- Personal Site: [amanks-20.github.io](https://amanks-20.github.io/)
+I am a second-year B.Tech student at IITK in the Civil Engineering Department.
+
+IITK Home: [home.iitk.ac.in/~amanks20](https://home.iitk.ac.in/~amanks20/) 
+
+Personal Site: [amanks-20.github.io](https://amanks-20.github.io/)
 
 <!----
 <code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/stars.gif"></code>
