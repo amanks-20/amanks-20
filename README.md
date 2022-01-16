@@ -5,9 +5,9 @@
 - My name is Aman. 🙂
 - I am a second-year B.Tech student at IITK in the Civil Engineering Department.
 
-- IITK Home: https://home.iitk.ac.in/~amanks20/ 
+- IITK Home: [home.iitk.ac.in/~amanks20](https://home.iitk.ac.in/~amanks20/) 
 
-- Personal Site: https://amanks-20.github.io/ 
+- Personal Site: [amanks-20.github.io](https://amanks-20.github.io/)
 
 <!----
 <code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/stars.gif"></code>
