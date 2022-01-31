@@ -12,17 +12,17 @@ Personal Site: [amanks-20.github.io](https://amanks-20.github.io/)
 
 ### Tools & Technologies
 
-| Tools and Technologies I know                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">             HTML       |
-| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">               CSS        |
-| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript |
-| <img height="30" src="https://git-scm.com/images/logos/logomark-orange@2x.png">                                                                    Git        |
-| <img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">                                                  GitHub     |
-| <img height="30" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png">       Windows    |
-| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">           macOS      |
-| <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg">                   MS Office  |
-| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png">         Google     |
+|                                                                                                                                                    |            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">             | HTML       |
+| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">               | CSS        |
+| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | JavaScript |
+| <img height="30" src="https://git-scm.com/images/logos/logomark-orange@2x.png">                                                                    | Git        |
+| <img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">                                                  | GitHub     |
+| <img height="30" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png">       | Windows    |
+| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">           | macOS      |
+| <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg">                   | MS Office  |
+| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png">         | Google     |
 
 <!----
 <code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/stars.gif"></code>
