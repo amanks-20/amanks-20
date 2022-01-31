@@ -1,6 +1,4 @@
 
-
-<code><img src = "https://profile-summary-for-github.com/user/amanks-20"></code>
 <code><img height="100" src = "https://home.iitk.ac.in/~amanks20/assets/images/gif/stars.gif"></code>
 
 Hey there! 👋🏻
