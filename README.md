@@ -1,4 +1,4 @@
-<code><img height="60" src = "https://amanks-20.github.io/main.png"></code>
+<code><img height="60" src = "main.jpg"></code>
 
 Hey there! 👋🏻
 
