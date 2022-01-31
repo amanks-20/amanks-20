@@ -15,6 +15,7 @@ Personal Site: [amanks-20.github.io](https://amanks-20.github.io/)
 
 #### Languages and Tools
 [![C++](https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/)
+[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 
