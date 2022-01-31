@@ -1,4 +1,4 @@
-<code><img height="60" src = "https://home.iitk.ac.in/~amanks20/assets/images/gif/stars.gif"></code>
+<code><img height="60" src = "https://amanks-20.github.io/main.png"></code>
 
 Hey there! 👋🏻
 
