@@ -10,7 +10,7 @@ IITK Homepage: [home.iitk.ac.in/~amanks20](https://home.iitk.ac.in/~amanks20/)
 
 Personal Site: [amanks-20.github.io](https://amanks-20.github.io/)
 
-#### Tools & Technologies
+### Tools & Technologies
 Tools and Technologies I know
 |                                                                                                                                                    |            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
