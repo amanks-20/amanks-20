@@ -23,11 +23,11 @@ Personal Site: [amanks-20.github.io](https://amanks-20.github.io/)
 
 |                                                                                                                                        |            |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">             | HTML       |
-| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">               | CSS        |
-| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | JavaScript |
-| <img src="">                                                                                                                           |            |
-| <img src="">                                                                                                                           |            |
+| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">             | HTML       |
+| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">               | CSS        |
+| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | JavaScript |
+| <img height="30" src="">                                                                                                                           |            |
+| <img height="30" src="">                                                                                                                           |            |
 
 <!----
 <code><img height="100" src = "https://github.com/protonaman/home.iitk/blob/main/assets/images/misc/stars.gif"></code>
