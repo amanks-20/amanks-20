@@ -27,7 +27,7 @@ Personal Site: [amanks-20.github.io](https://amanks-20.github.io/)
 | <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">               | CSS        |
 | <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | JavaScript |
 | <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">               | Git        |
-| <img height="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"> | GitHub     |
+| <img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">                                                  | GitHub     |
 | <img height="30" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png">       | Windows    |
 | <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">           | macOS      |
 
