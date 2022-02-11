@@ -1,6 +1,6 @@
 <!-- <code><img height="60" src = "main.jpg"></code> -->
 
-Hey there! 👋🏻
+### Hey there! 👋🏻
 
 My name is **Aman**. 
 I am a second-year B.Tech student at **IIT Kanpur** in the Civil Engineering Department.
