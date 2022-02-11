@@ -2,8 +2,8 @@
 
 Hey there! 👋🏻
 
-My name is **Aman**. I am a second-year B.Tech student at **IIT Kanpur** in the Civil Engineering Department.
-You can view more about in my homepage and site below:
+My name is **Aman**. 
+I am a second-year B.Tech student at **IIT Kanpur** in the Civil Engineering Department.
 
 IITK Homepage: [home.iitk.ac.in/~amanks20](https://home.iitk.ac.in/~amanks20/)
 
