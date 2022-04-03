@@ -15,6 +15,6 @@
 <!--- ⚡ Fun fact: ...-->
 
 <hr>
-
+<!-- 
 # My Contributions
-![My Activity](https://activity-graph.herokuapp.com/graph?username=amanks-20&theme=xcode)
+![My Activity](https://activity-graph.herokuapp.com/graph?username=amanks-20&theme=xcode) -->
