@@ -1,17 +1,20 @@
-<!-- <code><img height="60" src = "main.jpg"></code> -->
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![](https://visitor-badge.glitch.me/badge?page_id=amanks-20)
+<br />
 
-### Hey there! 👋🏻
+### Myself Aman :relaxed:
 
-### My name is **Aman**. 
-#### I am a second-year B.Tech student at **IIT Kanpur** in the Civil Engineering Department.
+#### I am a sophomore pursuing B.Tech in Civil Engineering from IIT Kanpur
+<!-- ### AI/ML Enthusiast :v: -->
 
-IITK Homepage: [home.iitk.ac.in/~amanks20](https://home.iitk.ac.in/~amanks20/)
 
-Personal Site: [amanks-20.github.io](https://amanks-20.github.io/)
-<!-- 
-### Tools & Technologies
+<!-- 🔭 I’m currently working as a volunteer data scientist at SDG AI Lab. <br>-->
+<!-- - 🌱 I’m currently learning CV, HCI  - 👯 I’m looking to collaborate on ...  - 🤔 I’m looking for help with   - 💬 Ask me about ... <br> -->
+- 📫 How to reach me: My Linkedin Profile - [Aman](https://www.linkedin.com/in/amanks-20) <br>
+- 😄 Pronouns: he/him <br>
+<!--- ⚡ Fun fact: ...-->
 
-| HTML                                                                                                                                   | CSS                                                                                                                                  | JS                                                                                                                                                 | Git                                                                             | GitHub                                                                                            | Windows                                                                                                                                      | macOS                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> | <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> | <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | <img height="30" src="https://git-scm.com/images/logos/logomark-orange@2x.png"> | <img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> | <img height="30" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png"> | <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"> |
- -->
+<hr>
+
+# My Contributions
+![My Activity](https://activity-graph.herokuapp.com/graph?username=amanks-20&theme=xcode)
