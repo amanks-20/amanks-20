@@ -1,5 +1,5 @@
 ### Hi there!
-### Myself Aman :relaxed:
+### Aman Kumar Singh here
 
 #### I am a third-year B.Tech student at IIT Kanpur in the Civil Engineering Department.
 <!-- ### AI/ML Enthusiast :v: -->
