@@ -1,7 +1,7 @@
 ### Hi there!
 ### Myself Aman :relaxed:
 
-#### I am a sophomore pursuing B.Tech in Civil Engineering from IIT Kanpur
+#### I am a third-year undergraduate student pursuing B.Tech in Civil Engineering from IIT Kanpur
 <!-- ### AI/ML Enthusiast :v: -->
 
 
