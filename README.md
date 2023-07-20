@@ -1,9 +1,8 @@
 ### Hi there!
-### Aman Kumar Singh here
 
 https://amanks-20.github.io/
 
-#### I am a third-year B.Tech student at IIT Kanpur in the Civil Engineering Department.
+#### I am Aman, a third-year UG student at IIT Kanpur in the Civil Engineering Department.
 <!-- ### AI/ML Enthusiast :v: -->
 
 
