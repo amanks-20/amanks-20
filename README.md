@@ -22,14 +22,8 @@ I aspire to become a professor in the field of Geoinformatics and related discip
 - **Email:** [amanks20@iitk.ac.in](mailto:amanks20@iitk.ac.in)
 - **Website:** [amanks-20.github.io](https://amanks-20.github.io)
 
-
-## Contributions
-![My Activity](https://activity-graph.herokuapp.com/graph?username=amanks-20&theme=xcode)
-
-<!--
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/amanks20)
--->
 
 <!--
 ## Fun Fact
