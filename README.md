@@ -1,6 +1,6 @@
 ### Hi there!
 
-<!-- -  #### I am Aman, a third-year UG student at IIT Kanpur in the Civil Engineering Department. ->
+#### I am Aman, a final-year BT-MT dual degree student at IIT Kanpur in the Civil Engineering Department.
 <!-- ### AI/ML Enthusiast :v: -->
 
 
@@ -9,7 +9,7 @@
 <!-- - - 😄 Pronouns: he/him <br> ->
 <!--- ⚡ Fun fact: ...-->
 
-https://amanks-20.github.io/
+Read more about me at https://amanks-20.github.io/
 
 <hr>
 <!-- 
