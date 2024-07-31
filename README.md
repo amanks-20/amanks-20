@@ -9,7 +9,7 @@
 <!-- - - 😄 Pronouns: he/him <br> ->
 <!--- ⚡ Fun fact: ...-->
 
-Read more about me at https://amanks-20.github.io/
+Contact: amanks20@iitk.ac.in | [Website](https://amanks-20.github.io/)
 
 <hr>
 <!-- 
