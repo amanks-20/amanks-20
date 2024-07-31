@@ -17,11 +17,6 @@ I am currently working on my thesis titled **"Advanced Visual Docking Guidance S
 I aspire to become a professor in the field of Geoinformatics and related disciplines, contributing to both academia and industry with innovative research and solutions.
 -->
 
-## Contact
-- **Email:** [amanks20@iitk.ac.in](mailto:amanks20@iitk.ac.in)
-- **Website:** [amanks-20.github.io](https://amanks-20.github.io)
-- [LinkedIn](https://www.linkedin.com/in/amanks20)
-
 <!--
 ## Fun Fact
 ⚡ I am always eager to learn new technologies and apply them in practical scenarios.
