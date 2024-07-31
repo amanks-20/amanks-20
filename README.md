@@ -18,20 +18,13 @@ I am currently working on my thesis titled **"Advanced Visual Docking Guidance S
 I aspire to become a professor in the field of Geoinformatics and related disciplines, contributing to both academia and industry with innovative research and solutions.
 -->
 
-## Experience
-I have taken on various teaching and mentoring roles, providing guidance to students and participating in numerous research projects. My experience includes:
-- **Teaching and Mentoring**
-- **Research in Advanced Visual Guidance Systems**
-- **Participation in Various Student Projects**
-
 ## Contact
 - **Email:** [amanks20@iitk.ac.in](mailto:amanks20@iitk.ac.in)
 - **Website:** [amanks-20.github.io](https://amanks-20.github.io)
 
-<!--
+
 ## Contributions
 ![My Activity](https://activity-graph.herokuapp.com/graph?username=amanks-20&theme=xcode)
--->
 
 <!--
 ## Connect with me
