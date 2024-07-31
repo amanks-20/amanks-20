@@ -1,6 +1,5 @@
 # Hi there! 👋
 
-## About Me
 I am Aman Kumar Singh, a final-year BT-MT dual degree student at IIT Kanpur in the Civil Engineering Department. My academic journey and research work have been primarily focused on LiDAR/Laser Scanning.
 
 <!--
