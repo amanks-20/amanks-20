@@ -16,7 +16,7 @@ Next: motion-aware LiDAR mapping and SLAM, robust multi-sensor fusion, and simul
 
 #### Featured
 
-**[mls-distortions](https://github.com/amanks-20/mls-distortions)**: closed-form equations for motion-induced point cloud distortions in mobile laser scanning, with a primer and an [interactive explorer]([https://amanks-20.github.io/mls-distortions/](https://amanks-20.github.io/mls-distortions/#explorer)). https://amanks-20.github.io/mls-distortions/#explorer
+**[mls-distortions](https://github.com/amanks-20/mls-distortions)**: closed-form equations for motion-induced point cloud distortions in mobile laser scanning, with a primer and an [interactive explorer](https://amanks-20.github.io/mls-distortions/#explorer).
 
 > Singh, A. K., & Lohani, B. (2026). Modeling Point Cloud Distortions in Mobile Laser Scanning for Surveying. *Journal of Surveying Engineering*, 152(3), 04026006. [doi:10.1061/JSUED2.SUENG-1663](https://doi.org/10.1061/JSUED2.SUENG-1663) ★ Editor's Choice
 
