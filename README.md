@@ -1,23 +1,25 @@
-# Hi there! 👋
+### Aman Kumar Singh
 
-I am Aman Kumar Singh, a final-year BT-MT dual degree student at IIT Kanpur in the Civil Engineering Department. My academic journey and research work have been primarily focused on LiDAR/Laser Scanning.
+I study where LiDAR goes wrong, and how to fix it.
 
-<!--
-## Research Interests
-- **Geoinformatics**
-- **LiDAR/Laser Scanning**
-- **Autonomous Vehicles**
-- **Digital Twins**
-- **Remote Sensing**
+When the scanner, the object, or both are moving, the point cloud comes out quietly distorted. I work out exactly how that happens, and how to model and correct it, so that machines can measure the real world with confidence.
 
-## Current Work
-I am currently working on my thesis titled **"Advanced Visual Docking Guidance System (AVDGS) using LiDAR technology"**. This project aims to enhance the safety, efficiency, and automation in airport operations by replacing ground personnel with advanced laser scanning technology for accurate aircraft docking.
+B.Tech–M.Tech (Dual), Civil Engineering (Geoinformatics), IIT Kanpur, 2025. Thesis advised by Prof. Bharat Lohani, co-supervised by Prof. Gaurav Pandey (Texas A&M). **Applying to PhD programs for Fall 2027.**
 
-## Professional Goals
-I aspire to become a professor in the field of Geoinformatics and related disciplines, contributing to both academia and industry with innovative research and solutions.
--->
+#### Research
 
-<!--
-## Fun Fact
-⚡ I am always eager to learn new technologies and apply them in practical scenarios.
--->
+- **Motion:** how motion of the scanner, the object, or both distorts what a scanner sees, and whether we can undo it.
+- **Disagreement:** when LiDAR, camera, and thermal sensors disagree, which do we trust, and why?
+- **Trust:** how to test a 3D measurement before the real world tests it for us.
+
+Next: motion-aware LiDAR mapping and SLAM, robust multi-sensor fusion, and simulation-driven validation of 3D measurements.
+
+#### Featured
+
+**[mls-distortions](https://github.com/amanks-20/mls-distortions)**: closed-form equations for motion-induced point cloud distortions in mobile laser scanning, with a primer and an [interactive explorer](https://amanks-20.github.io/mls-distortions/).
+
+> Singh, A. K., & Lohani, B. (2026). Modeling Point Cloud Distortions in Mobile Laser Scanning for Surveying. *Journal of Surveying Engineering*, 152(3), 04026006. [doi:10.1061/JSUED2.SUENG-1663](https://doi.org/10.1061/JSUED2.SUENG-1663) ★ Editor's Choice
+
+#### Links
+
+[Homepage](https://amanks-20.github.io) · [Google Scholar](https://scholar.google.com/citations?user=jQvWPfkAAAAJ) · [ORCID](https://orcid.org/0000-0001-7873-6374) · [LinkedIn](https://www.linkedin.com/in/amanksiitk/) · amanks.iitk [at] gmail.com
